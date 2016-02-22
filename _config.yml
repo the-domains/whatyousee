@@ -1,0 +1,28 @@
+name: whatyousee
+favicon: null
+layout_spectrum: 0.7620466100051999
+typography_spectrum: 0.852851701201871
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.23523622821085155
+  lightness: 0.5863085305318236
+  saturation: 0.593294738791883
+  rhythmicContrast: 0.39250409440137446
+purpose: []
